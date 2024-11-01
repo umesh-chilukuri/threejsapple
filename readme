@@ -1,0 +1,5 @@
+vite and tailwind
+go to the tailwind site  and install tailwind with vite
+npm create vite@latest ./ -- --template react
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
